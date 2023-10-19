@@ -2,7 +2,7 @@
 layout: page
 title: project 4
 description: another without an image
-img:
+img: assets/img/南方报业.jpeg
 importance: 3
 category: fun
 ---
