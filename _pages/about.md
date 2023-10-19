@@ -24,6 +24,5 @@ social: true  # includes social icons at the bottom of the page
 
 科研项目：参与国家级创业训练项目《低碳牧场-微藻发酵新蛋白工厂》、省级项目《粤港澳大湾区背景下“广东智造”的形象升级与建构》、百步梯攀登计划《积极老龄化与老龄群体数字融入路径探索》等。
 
-论文发表：作为第一作者在第五届传播社会学年会发表论文《积极老龄化与老龄群体数字融入路径探索——基于社交关系的初老人群分析》。
 
 <img src="/assets/img/万里江山图.jpg" align = "middle" width ="800px">
