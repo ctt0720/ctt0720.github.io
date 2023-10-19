@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Cai Tiantian
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20st Jul 2001
     - name: Languages
-      value: English, German
+      value: Chinese, Chian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master
+      institution: Nanjing University
+      year: 2023.09-2026.06
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor
+      institution: South China University of Technology
+      year: 2019.09-2023.06
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Interning at the Southern Newspaper Group
+      institution: Guangdong Southcn.com Information & Technology Co., Ltd. 
+      year: 2022.09 - 2022.12
       description:
         - Description 1.
         - Description 2.
@@ -71,22 +71,21 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - First prize in the American College Student Mathematical Contest in Modeling
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - The 13th Challenge Cup Guangdong College Students Entrepreneurship Plan Competition gold medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Digital marketing communication
       items: 
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Live delivery
       items:
         - Description 1.
         - Description 2.
