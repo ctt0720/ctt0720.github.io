@@ -2,7 +2,7 @@
 layout: page
 title: project 3
 description: 挑战杯金奖项目：低碳牧场——高密度发酵微藻新蛋白工厂
-img:assets/img/低碳3.jpg
+img: assets/img/低碳3.jpg
 importance: 3
 category: work
 ---
