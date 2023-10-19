@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
+title: project 4
 description: 中国数据新闻大赛作品《毒与“独”的碰撞——揭秘老年吸毒群体》(https://1648777837.wixsite.com/drug-abuse-elderly)
 img: assets/img/数据新闻封面.jpg
-importance: 3
-category: work
+importance: 4
+category: fun
 giscus_comments: true
 ---
 
