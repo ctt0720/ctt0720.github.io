@@ -3,7 +3,7 @@ layout: page
 title: project 6
 description: 2023.04-2023.05 爱德曼国际公关实习
 img: assets/img/爱德曼.jpg
-importance: 4
+importance: 6
 category: fun
 ---
 
