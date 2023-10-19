@@ -4,8 +4,8 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Tian-Tian
-middle_name: 
-last_name:Cai
+middle_name:
+last_name: Cai
 email: ctt2031137968@163.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   诚朴雄伟，励学敦行.
@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username:ctt0720 # your GitHub user name
+github_username: njuctt # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
