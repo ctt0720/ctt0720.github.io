@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ctt0720.github.io/sitemap.xml
